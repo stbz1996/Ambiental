@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aplicacion_Web.AcercaDe" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAEAAIBAAAAAAAAAAAIAAYAAACAgAiAAIACAA=</HashCode>
+      <FileName>AcercaDe.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.AgregarHashtagDenuncia" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACDEEAABAAAAAUAAAAIoAAAAACCAAAAAAIAAAA=</HashCode>
+      <FileName>AgregarHashtagDenuncia.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.AgregarHashtagSolucion" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACDEEAABAAAAAQAAAAIoAAAAAKCAAAAAAIAAAA=</HashCode>
+      <FileName>AgregarHashtagSolucion.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.ConsultaDenunciasGuardian" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAVMABAAEAgBBgQAABEAAAAApACEBAACEAUAARIAAAA=</HashCode>
+      <FileName>ConsultaDenunciasGuardian.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.CrearAporteGuardian" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAAAAAEAAABAAAIAAAAAEApACABAhCAAAAAAIIAEA=</HashCode>
+      <FileName>CrearAporteGuardian.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.CrearAporteJuez" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAAAAAEAAABAAAIAAAAAEApACABAhCAAAAAAIIAEA=</HashCode>
+      <FileName>CrearAporteJuez.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.CrearAporteOficial" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAAAAAEAAABAAAIAAAAAEApACABAhCAAAAAAIIAEA=</HashCode>
+      <FileName>CrearAporteOficial.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.CrearDenunciaGuardian" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAECACCAEQAEIEQBYBkAAEgIpQCEEAhAEgMBSAIICAA=</HashCode>
+      <FileName>CrearDenunciaGuardian.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.CrearSolucionOficial" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAVEAAAAMAgDAAQCYBUgAAAAoACEAAJAEAUACAIIQAA=</HashCode>
+      <FileName>CrearSolucionOficial.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.CrearUsuario" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IOQgAACAEwQCKASAfwkQJAgupEIoUoQoAhMIQAMBCkg=</HashCode>
+      <FileName>CrearUsuario.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.EvaluarDenunciaJuez" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hIVEAACAEAgFNAQABFkASAoJoEgEHEAiAAUACAJAAAA=</HashCode>
+      <FileName>EvaluarDenunciaJuez.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.EvaluarSolucionJuez" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAUAAAAAEAwAFAQAAFIQAAABoAAEBBIyAQEABEJAAEA=</HashCode>
+      <FileName>EvaluarSolucionJuez.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.HomeGuardian" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEACAAAAAAAAAAAAAoAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>HomeGuardian.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.HomeJuez" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEACAAAAAAAAAAAAAoAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>HomeJuez.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.HomeOficial" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAEACAAAAAAAAAAAAAoAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>HomeOficial.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.Login" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAgAAFAAAAAAAAAAAAAgAYAAACEAAAAACAApAAAE=</HashCode>
+      <FileName>Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aplicacion_Web.ModificarDatosUsuario" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IGQAABDAEAQCLYyIfwkQYQosIE4JEIQiAhIIQgMBCgw=</HashCode>
+      <FileName>ModificarDatosUsuario.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

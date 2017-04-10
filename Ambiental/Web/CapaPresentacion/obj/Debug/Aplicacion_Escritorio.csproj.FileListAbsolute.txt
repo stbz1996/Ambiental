@@ -1,0 +1,38 @@
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\Aplicacion_Escritorio.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListadoAlumnos.resources
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\Aplicacion_Escritorio.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\af\CapaPresentacion.resources.dll
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.Login.af.resources
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\af\CapaPresentacion.resources.dll
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.interfazAdministrador.resources
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\bin\Debug\af\CapaPresentacion.resources.dll
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\Aplicacion_Escritorio.csprojResolveAssemblyReference.cache
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListadoAlumnos.resources
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\CapaPresentacion.interfazAdministrador.resources
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\CapaPresentacion.Login.af.resources
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\Aplicacion_Escritorio.csproj.GenerateResource.Cache
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaPresentacion\obj\Debug\af\CapaPresentacion.resources.dll

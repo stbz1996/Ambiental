@@ -1,0 +1,86 @@
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Maryori Liset\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+C:\Users\EXPERT\Desktop\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\EXPERT\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\EXPERT\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\EXPERT\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\EXPERT\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\EXPERT\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+C:\Users\EXPERT\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\EXPERT\Desktop\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Juan\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Form2.resources
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaEnlaceDatos.dll
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+\\KEMICK-PC\Users\KEMICK\Desktop\Share\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\CRHISTOPHER\Desktop\NCAPAS\DemoNCapas\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListadoAlumnos.resources
+C:\Users\CRHISTOPHER\Desktop\NCAPAS Bonus\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\CRHISTOPHER\Desktop\NCAPAS Bonus\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\CRHISTOPHER\Desktop\NCAPAS Bonus\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListadoAlumnos.resources
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Steven\Downloads\Tutorial NCapas C#\2 DemoNCAPAS Completo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

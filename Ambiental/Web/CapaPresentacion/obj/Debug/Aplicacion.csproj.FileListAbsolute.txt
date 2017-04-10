@@ -1,0 +1,14 @@
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\Aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListadoAlumnos.resources
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\Aplicacion.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

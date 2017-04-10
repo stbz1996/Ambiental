@@ -1,0 +1,7 @@
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\Capa_Negocios_Administrador\bin\Debug\Capa_Negocios_Administrador.dll
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\Capa_Negocios_Administrador\bin\Debug\Capa_Negocios_Administrador.pdb
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\Capa_Negocios_Administrador\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\Capa_Negocios_Administrador\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\Capa_Negocios_Administrador\obj\Debug\Capa_Negocios_Administrador.dll
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\Capa_Negocios_Administrador\obj\Debug\Capa_Negocios_Administrador.pdb
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\Capa_Negocios_Administrador\obj\Debug\Capa_Negocios_Cliente.csprojResolveAssemblyReference.cache

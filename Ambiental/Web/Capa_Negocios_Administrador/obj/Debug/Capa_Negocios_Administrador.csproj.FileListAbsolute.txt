@@ -1,0 +1,5 @@
+C:\Users\Jorge González\Desktop\ProyectoAmbiental-master\Proyecto Ambiental\Capa_Negocios_Administrador\bin\Debug\Capa_Negocios_Administrador.dll
+C:\Users\Jorge González\Desktop\ProyectoAmbiental-master\Proyecto Ambiental\Capa_Negocios_Administrador\bin\Debug\Capa_Negocios_Administrador.pdb
+C:\Users\Jorge González\Desktop\ProyectoAmbiental-master\Proyecto Ambiental\Capa_Negocios_Administrador\obj\Debug\Capa_Negocios_Administrador.csprojResolveAssemblyReference.cache
+C:\Users\Jorge González\Desktop\ProyectoAmbiental-master\Proyecto Ambiental\Capa_Negocios_Administrador\obj\Debug\Capa_Negocios_Administrador.dll
+C:\Users\Jorge González\Desktop\ProyectoAmbiental-master\Proyecto Ambiental\Capa_Negocios_Administrador\obj\Debug\Capa_Negocios_Administrador.pdb

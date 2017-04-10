@@ -1,0 +1,10 @@
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaEnlaceDatos\obj\Debug\Aceso_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\Steven\Desktop\Proyecto Ambiental\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaEnlaceDatos\obj\Debug\Aceso_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\Jorge González\Documents\Visual Studio 2015\Projects\ProyectoAmbiental\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aceso_Datos", "CapaEnlaceDatos\Aceso_Datos.csproj", "{2CEEBB9C-FEF8-4525-8092-0610B53322FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa_Negocios_Admin", "CapaLogicaNegocio\Capa_Negocios_Admin.csproj", "{4DEEDEF9-23AC-421F-91D5-CFA5B8B6542B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion_Escritorio", "CapaPresentacion\Aplicacion_Escritorio.csproj", "{671306C8-F91D-4EDC-9B8C-071FDB61EEC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CEEBB9C-FEF8-4525-8092-0610B53322FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEEBB9C-FEF8-4525-8092-0610B53322FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEEBB9C-FEF8-4525-8092-0610B53322FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEEBB9C-FEF8-4525-8092-0610B53322FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DEEDEF9-23AC-421F-91D5-CFA5B8B6542B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEEDEF9-23AC-421F-91D5-CFA5B8B6542B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEEDEF9-23AC-421F-91D5-CFA5B8B6542B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEEDEF9-23AC-421F-91D5-CFA5B8B6542B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671306C8-F91D-4EDC-9B8C-071FDB61EEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671306C8-F91D-4EDC-9B8C-071FDB61EEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671306C8-F91D-4EDC-9B8C-071FDB61EEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671306C8-F91D-4EDC-9B8C-071FDB61EEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

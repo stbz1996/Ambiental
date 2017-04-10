@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{671306C8-F91D-4EDC-9B8C-071FDB61EEC6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\Steven\Desktop\Ejecutable del Proyecto Ambiental\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>E5AA027EE6A1F709582717585E16C0AAC5B6B9C5</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Aplicacion_Escritorio_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Dashboard.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Dashboard.v16.1.Win, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v16.1.UI, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Map.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v16.1.Drawing, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.1.UI, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v16.1.UI, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v16.1.Wizard, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v16.1.Core, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v16.1.Presets, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v16.1.Win, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraMap.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPivotGrid.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v16.1.Extensions, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v16.1, Version=16.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aportes\promedioAportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aportes\promedioAportes.Designer.cs">
+      <DependentUpon>promedioAportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Autoridades\Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autoridades\Administrador.Designer.cs">
+      <DependentUpon>Administrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Autoridades\bitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autoridades\bitacora.Designer.cs">
+      <DependentUpon>bitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Autoridades\Consultante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autoridades\Consultante.Designer.cs">
+      <DependentUpon>Consultante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Autoridades\crearAutoridades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autoridades\crearAutoridades.Designer.cs">
+      <DependentUpon>crearAutoridades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Denuncias\consultaDenunciaEspecifica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Denuncias\consultaDenunciaEspecifica.Designer.cs">
+      <DependentUpon>consultaDenunciaEspecifica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Denuncias\gravedadDenuncias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Denuncias\gravedadDenuncias.Designer.cs">
+      <DependentUpon>gravedadDenuncias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Soluciones\reportePropuestasSolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Soluciones\reportePropuestasSolucion.Designer.cs">
+      <DependentUpon>reportePropuestasSolucion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Soluciones\solucionesXJuez.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Soluciones\solucionesXJuez.Designer.cs">
+      <DependentUpon>solucionesXJuez.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Soluciones\solucionesXOficial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Soluciones\solucionesXOficial.Designer.cs">
+      <DependentUpon>solucionesXOficial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\guardianesConMasDenunciasRechazadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\guardianesConMasDenunciasRechazadas.Designer.cs">
+      <DependentUpon>guardianesConMasDenunciasRechazadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\ListadoRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\ListadoRoles.Designer.cs">
+      <DependentUpon>ListadoRoles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\listadosAportesDenunciasOG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\listadosAportesDenunciasOG.Designer.cs">
+      <DependentUpon>listadosAportesDenunciasOG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\ListadosDeUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\ListadosDeUsuarios.Designer.cs">
+      <DependentUpon>ListadosDeUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Aportes\reporteGeneralAportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aportes\reporteGeneralAportes.Designer.cs">
+      <DependentUpon>reporteGeneralAportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Denuncias\reporteGeneralDenuncias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Denuncias\reporteGeneralDenuncias.Designer.cs">
+      <DependentUpon>reporteGeneralDenuncias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\mostrarXML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\mostrarXML.Designer.cs">
+      <DependentUpon>mostrarXML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\TopXDenunciasReportadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\TopXDenunciasReportadas.Designer.cs">
+      <DependentUpon>TopXDenunciasReportadas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aportes\promedioAportes.resx">
+      <DependentUpon>promedioAportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Autoridades\Administrador.resx">
+      <DependentUpon>Administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Autoridades\bitacora.resx">
+      <DependentUpon>bitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Autoridades\Consultante.resx">
+      <DependentUpon>Consultante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Autoridades\crearAutoridades.resx">
+      <DependentUpon>crearAutoridades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Denuncias\consultaDenunciaEspecifica.resx">
+      <DependentUpon>consultaDenunciaEspecifica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Denuncias\gravedadDenuncias.resx">
+      <DependentUpon>gravedadDenuncias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Soluciones\reportePropuestasSolucion.resx">
+      <DependentUpon>reportePropuestasSolucion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Soluciones\solucionesXJuez.resx">
+      <DependentUpon>solucionesXJuez.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Soluciones\solucionesXOficial.resx">
+      <DependentUpon>solucionesXOficial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\guardianesConMasDenunciasRechazadas.resx">
+      <DependentUpon>guardianesConMasDenunciasRechazadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\ListadoRoles.resx">
+      <DependentUpon>ListadoRoles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\listadosAportesDenunciasOG.resx">
+      <DependentUpon>listadosAportesDenunciasOG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\ListadosDeUsuarios.resx">
+      <DependentUpon>ListadosDeUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\Login.af.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Aportes\reporteGeneralAportes.resx">
+      <DependentUpon>reporteGeneralAportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Denuncias\reporteGeneralDenuncias.resx">
+      <DependentUpon>reporteGeneralDenuncias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\mostrarXML.resx">
+      <DependentUpon>mostrarXML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\TopXDenunciasReportadas.resx">
+      <DependentUpon>TopXDenunciasReportadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Aplicacion_Escritorio_ClaveTemporal.pfx" />
+    <None Include="Diagrama\Diagrama.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.Express.11.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2012 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaLogicaNegocio\Capa_Negocios_Admin.csproj">
+      <Project>{4deedef9-23ac-421f-91d5-cfa5b8b6542b}</Project>
+      <Name>Capa_Negocios_Admin</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

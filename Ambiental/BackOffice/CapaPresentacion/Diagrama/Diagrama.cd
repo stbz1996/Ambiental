@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaPresentacion.Aportes.promedioAportes" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAABAAAACCBAACAIAoAAAAAEQEAAAAAAQ=</HashCode>
+      <FileName>Aportes\promedioAportes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.reporteGeneralAportes" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAIABAAAACABAACAIA4AAAAAEQEAAAAAAQ=</HashCode>
+      <FileName>Aportes\reporteGeneralAportes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.AdminMejorado" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACASABICAAGABAACAMC4AgAAAfQMAAAgCig=</HashCode>
+      <FileName>Autoridades\Administrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Consultante" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAADgDABAiAAH8QQACAIAAAAAAAQAAAgAAAgw=</HashCode>
+      <FileName>Autoridades\Consultante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.crearAutoridades" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>fwAAQAKAEaACAJAAEBSAACAGCAF4AkAAAHQEEAACIjI=</HashCode>
+      <FileName>Autoridades\crearAutoridades.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.gravedadDenuncias" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAoAJAAAAiAhAAGCAE4AAgAACYEAAACIAQ=</HashCode>
+      <FileName>Denuncias\gravedadDenuncias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.reporteGeneralDenuncias" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAASAIEJACAACABIAGCIG4ZwgAAEYEAAACIAg=</HashCode>
+      <FileName>Denuncias\reporteGeneralDenuncias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Login" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAABCAAQCgCAACAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Inicio\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Program" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Inicio\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.guardianesConMasDenunciasRechazadas" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAASAIABAAAACABAACAIAYAAAAAGQEAAAAAAQ=</HashCode>
+      <FileName>Usuarios\guardianesConMasDenunciasRechazadas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.ListadoRoles" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIgADAYABCAAASABAACAMAYAgAAAGAOAAAAEAQ=</HashCode>
+      <FileName>Usuarios\ListadoRoles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.ListadosDeUsuarios" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAQABAAAACAAAACAACoAgAAAUQEAAAgCAA=</HashCode>
+      <FileName>Usuarios\ListadosDeUsuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Autoridades.bitacora" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAABIAAACABAACAIA4BAAAAEQEAAAAAIA=</HashCode>
+      <FileName>Autoridades\bitacora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Denuncias.consultaDenunciaEspecifica" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAABAAAAKBBAACAIC4ZwgQACQAAABIIhA=</HashCode>
+      <FileName>Denuncias\consultaDenunciaEspecifica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Soluciones.reportePropuestasSolucion" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAASAoALACAACABgAGCAG4RwAAAEQEAAACIgA=</HashCode>
+      <FileName>Soluciones\reportePropuestasSolucion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Soluciones.solucionesXJuez" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACABAgSAAA4BAAAEEQAAAAAAAA=</HashCode>
+      <FileName>Soluciones\solucionesXJuez.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Soluciones.solucionesXOficial" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAABAAAACABAgCAAA4BAAAAEQAgAAAAAA=</HashCode>
+      <FileName>Soluciones\solucionesXOficial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Usuarios.listadosAportesDenunciasOG" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAIABAAAACABAASAIAgAAAAEAQEAAAAAAQ=</HashCode>
+      <FileName>Usuarios\listadosAportesDenunciasOG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Usuarios.mostrarXML" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACABAACAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Usuarios\mostrarXML.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaPresentacion.Usuarios.TopXDenunciasReportadas" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEABAAAACABAgCAAA4BAAAAEQAgAAAAAA=</HashCode>
+      <FileName>Usuarios\TopXDenunciasReportadas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
